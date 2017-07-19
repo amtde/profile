@@ -1,0 +1,63 @@
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+  color: #005691;
+}
+
+h1 {
+  color: #004A7C;
+}
+
+body {
+  background-color: #F2F7FF;
+  font-family: 'Montserrat', sans-serif;
+  color: #005691;
+}
+
+a {
+  color: #005691;
+  text-decoration: none;
+}
+
+i {
+  color: #005691;
+}
+
+div {
+  text-align: center;
+  width: 650px;
+  padding: 30px;
+  background-color: #FAFAFA;
+  margin: 50px auto;
+  box-shadow: 3px 3px 5px #E8F1F5;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+#ade-img {
+  width: 200px;
+  height: 180px;
+  border-radius: 50%;
+}
+
+.movie-img {
+  width: 80px;
+}
+
+td {
+  text-align: justify;
+  padding: 10px;
+}
+
+.button {
+  background-color: #005691;
+  color: white;
+  padding: 15px 20px;
+  display: inline-block;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: #004A7C;
+}
+
